@@ -1,0 +1,19 @@
+body{background-color: rgb(51,204,225);}
+h1{font-weight: bold;
+  font-size: 28pt;
+  color: white;
+  font-family:sans-serif;}
+.box1{border: 2.5px solid brown;
+    padding:0.5em;
+    margin:0.5em;
+    width: 400px;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;}
+.box2{border: 5px solid white;
+  padding:0.5em;
+  margin:0.5em;}
+img{width:300px;
+    height:300px;}
+.center{display:block;
+        margin:auto;}
