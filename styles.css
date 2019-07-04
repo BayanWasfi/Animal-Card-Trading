@@ -4,6 +4,7 @@ h1{font-weight: bold;
   font-size: 28pt;
   color: white;
   font-family:sans-serif;}
+/* An identity to identify the features of the box */
 .box1{border: 2.5px solid brown;
     padding:0.5em;
     margin:0.5em;
