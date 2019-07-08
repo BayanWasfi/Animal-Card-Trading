@@ -1,2 +1,3 @@
-# Animal-Card-Trading
-Udacity project 1 is to create animal card trading
+# Animal Card Trading Project
+
+Creating webpage from a design protoype of animal card trading using HTML and CSS under certain specification. This is a common workflow for front-end web developers. 
