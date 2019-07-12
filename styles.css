@@ -12,7 +12,7 @@ h1{font-weight: bold;
     height: 100%;
     display: flex;
     flex-wrap: wrap;}
-/* An identity to identify the features of the box 2 */
+/* An identity to identify the features of the box 2. */
 .box2{border: 5px solid white;
   padding:0.5em;
   margin:0.5em;}
